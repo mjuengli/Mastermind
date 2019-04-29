@@ -1,0 +1,11 @@
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\bin\Release\netcoreapp2.2\Mastermind.deps.json
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\bin\Release\netcoreapp2.2\Mastermind.runtimeconfig.json
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\bin\Release\netcoreapp2.2\Mastermind.runtimeconfig.dev.json
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\bin\Release\netcoreapp2.2\Mastermind.dll
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\bin\Release\netcoreapp2.2\Mastermind.pdb
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\obj\Release\netcoreapp2.2\Mastermind.csprojAssemblyReference.cache
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\obj\Release\netcoreapp2.2\Mastermind.csproj.CoreCompileInputs.cache
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\obj\Release\netcoreapp2.2\Mastermind.AssemblyInfoInputs.cache
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\obj\Release\netcoreapp2.2\Mastermind.AssemblyInfo.cs
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\obj\Release\netcoreapp2.2\Mastermind.dll
+G:\My Drive\Jobs\Quadax\Mastermind\Mastermind\obj\Release\netcoreapp2.2\Mastermind.pdb
